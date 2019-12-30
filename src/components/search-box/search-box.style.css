@@ -1,0 +1,14 @@
+.search {
+  -webkit-appearance: none;
+  border: 1px solid lightgray;
+  outline: none;
+  padding: 20px;
+  width: 350px;
+  line-height: 70px;
+  margin: 60px 0 90px 0;
+  font-size: 60px;
+  color: rgb(121, 121, 121);
+  letter-spacing: 1.5pt;
+  font-weight: 500;
+  text-align: center;
+}
