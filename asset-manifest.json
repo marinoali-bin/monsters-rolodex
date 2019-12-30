@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "marinoali-bin.github.io/monsters-rolodex/static/css/main.42263de8.chunk.css",
+    "main.js": "marinoali-bin.github.io/monsters-rolodex/static/js/main.e6659572.chunk.js",
+    "main.js.map": "marinoali-bin.github.io/monsters-rolodex/static/js/main.e6659572.chunk.js.map",
+    "runtime-main.js": "marinoali-bin.github.io/monsters-rolodex/static/js/runtime-main.51afae76.js",
+    "runtime-main.js.map": "marinoali-bin.github.io/monsters-rolodex/static/js/runtime-main.51afae76.js.map",
+    "static/js/2.7db90bec.chunk.js": "marinoali-bin.github.io/monsters-rolodex/static/js/2.7db90bec.chunk.js",
+    "static/js/2.7db90bec.chunk.js.map": "marinoali-bin.github.io/monsters-rolodex/static/js/2.7db90bec.chunk.js.map",
+    "index.html": "marinoali-bin.github.io/monsters-rolodex/index.html",
+    "precache-manifest.c9b48cd1ba6e75acc6aa4217c7ba4e69.js": "marinoali-bin.github.io/monsters-rolodex/precache-manifest.c9b48cd1ba6e75acc6aa4217c7ba4e69.js",
+    "service-worker.js": "marinoali-bin.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.42263de8.chunk.css.map": "marinoali-bin.github.io/monsters-rolodex/static/css/main.42263de8.chunk.css.map",
+    "static/js/2.7db90bec.chunk.js.LICENSE": "marinoali-bin.github.io/monsters-rolodex/static/js/2.7db90bec.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51afae76.js",
+    "static/js/2.7db90bec.chunk.js",
+    "static/css/main.42263de8.chunk.css",
+    "static/js/main.e6659572.chunk.js"
+  ]
+}
